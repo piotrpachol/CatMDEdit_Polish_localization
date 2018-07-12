@@ -1,6 +1,8 @@
 # CatMDEdit_Polish_localization
 **Author: Piotr Pachół**
 
+##### *CatMDEdit web page: http://catmdedit.sourceforge.net/*
+
 ### pl
 Projekt zawiera polską lokalizację oprogramowania CatMDEdit.
 
